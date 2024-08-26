@@ -198,6 +198,11 @@ continue (y/n): y
 ✅ txID: 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 ```
 
+My Output:
+
+![image](https://github.com/user-attachments/assets/ccf3b475-1104-444a-87f3-fe5a3d8839e2)
+
+
 _`txID` is the `assetID` of your new asset._
 
 The "loaded address" here is the address of the default private key (`demo.pk`). We
@@ -224,6 +229,11 @@ continue (y/n): y
 ✅ txID: X1E5CVFgFFgniFyWcj5wweGg66TyzjK2bMWWTzFwJcwFYkF72
 ```
 
+My Output:
+
+![image](https://github.com/user-attachments/assets/b2b6807c-3e74-4a0f-a9d8-febe1b814500)
+
+
 #### Step 3: View Your Balance
 Now, let's check that the mint worked right by checking our balance. You can do
 so by running the following command from this location:
@@ -240,6 +250,11 @@ assetID (use TKN for native token): 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4A
 metadata: MarioCoin supply: 10000 warp: false
 balance: 10000 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 ```
+
+My Output:
+
+![image](https://github.com/user-attachments/assets/4e8b9fd4-903f-4472-8aa6-02129c4378bd)
+
 
 #### Step 4: Create an Order
 So, we have some of our token (`MarioCoin`)...now what? Let's put an order
